@@ -4,7 +4,7 @@ from chainlit import user_session
 
 
 model_name = "gpt-3.5-turbo-16k"
-openai.api_key = "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"
+openai.api_key = ""
 settings = {"temperature": 0.5}
 
 
